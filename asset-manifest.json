@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fake_store/static/css/main.f9a26e3a.css",
-    "main.js": "/fake_store/static/js/main.4ba53b2b.js",
+    "main.js": "/fake_store/static/js/main.e94f9909.js",
     "static/media/YinandYang.gif": "/fake_store/static/media/YinandYang.a813db939f75be612b72.gif",
     "index.html": "/fake_store/index.html",
     "main.f9a26e3a.css.map": "/fake_store/static/css/main.f9a26e3a.css.map",
-    "main.4ba53b2b.js.map": "/fake_store/static/js/main.4ba53b2b.js.map"
+    "main.e94f9909.js.map": "/fake_store/static/js/main.e94f9909.js.map"
   },
   "entrypoints": [
     "static/css/main.f9a26e3a.css",
-    "static/js/main.4ba53b2b.js"
+    "static/js/main.e94f9909.js"
   ]
 }
